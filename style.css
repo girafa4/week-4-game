@@ -15,7 +15,7 @@ header, footer, section{
     text-align: center
 }
 header, footer{
-	background-color: orange;
+	background-color: red;
 	height: 100px;
 }
 /* header */
